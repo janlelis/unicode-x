@@ -1,6 +1,6 @@
 module Unicode
   module X
-    VERSION = "1.0.0".freeze
+    VERSION = "1.0.1".freeze
   end
 end
 
@@ -8,6 +8,7 @@ require "unicode/blocks"
 require "unicode/categories"
 require "unicode/confusable"
 require "unicode/display_width"
+require "unicode/name"
 require "unicode/scripts"
 
 begin
