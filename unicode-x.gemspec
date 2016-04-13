@@ -22,5 +22,6 @@ Gem::Specification.new do |gem|
   gem.add_dependency "unicode-categories",      "~> 1.0"
   gem.add_dependency "unicode-confusable",      "~> 1.0"
   gem.add_dependency "unicode-display_width",   "~> 1.0"
+  gem.add_dependency "unicode-name",            "~> 1.0"
   gem.add_dependency "unicode-scripts",         "~> 1.0"
 end
