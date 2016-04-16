@@ -6,10 +6,10 @@ Gem::Specification.new do |gem|
   gem.name          = "unicode-x"
   gem.version       = Unicode::X::VERSION
   gem.summary       = "unicode-x"
-  gem.description   = "A collection of libraries providing data and algorithms about unicode characters."
+  gem.description   = "A collection of micro libraries providing data and algorithms about unicode characters."
   gem.authors       = ["Jan Lelis"]
   gem.email         = ["mail@janlelis.de"]
-  gem.homepage      = "https://github.com/janlelis/unicode-info"
+  gem.homepage      = "https://github.com/janlelis/unicode-x"
   gem.license       = "MIT"
 
   gem.files         = Dir["{**/}{.*,*}"].select{ |path| File.file?(path) && path !~ /^pkg/ }
@@ -23,5 +23,7 @@ Gem::Specification.new do |gem|
   gem.add_dependency "unicode-confusable",      "~> 1.0"
   gem.add_dependency "unicode-display_width",   "~> 1.0"
   gem.add_dependency "unicode-name",            "~> 1.0"
+  gem.add_dependency "unicode-numeric_value",   "~> 1.0"
   gem.add_dependency "unicode-scripts",         "~> 1.0"
+  gem.add_dependency "unicode-types",           "~> 1.0"
 end
