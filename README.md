@@ -15,3 +15,5 @@ Library                 | Info
 [unicode-types](https://github.com/janlelis/unicode-types) | Basic codepoint types
 
 Although you can use the bundled gem (**unicode-x**) to install all the above at once, every of this libraries is standalone, so you are able to select only the features you need.
+
+Also see: [unicoder](https://github.com/janlelis/unicoder)
