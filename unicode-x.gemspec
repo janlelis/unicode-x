@@ -22,7 +22,7 @@ Gem::Specification.new do |gem|
   gem.add_dependency "unicode-categories",      "~> 1.1"
   gem.add_dependency "unicode-confusable",      "~> 1.1"
   gem.add_dependency "unicode-display_width",   "~> 1.1"
-  gem.add_dependency "unicode-name",            "~> 1.3"
+  gem.add_dependency "unicode-name",            "~> 1.4"
   gem.add_dependency "unicode-numeric_value",   "~> 1.2"
   gem.add_dependency "unicode-scripts",         "~> 1.1"
   gem.add_dependency "unicode-sequence_name",   "~> 1.0"

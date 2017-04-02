@@ -3,6 +3,7 @@
 ## 1.2.0
 
 - Add unicode-sequence_name
+- Update unicode-name dependency
 
 ## 1.1.0
 
