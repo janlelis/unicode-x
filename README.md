@@ -12,6 +12,7 @@ Library                 | Info
 [unicode_normalize](https://github.com/ruby/ruby/blob/trunk/lib/unicode_normalize.rb) | Unicode normalization (*stdlib*)
 [unicode-numeric_value](https://github.com/janlelis/unicode-numeric_value) | Convert a Unicode character into its numeric value
 [unicode-scripts](https://github.com/janlelis/unicode-scripts) | Scripts and Script_Extensions
+[unicode-sequence_name](https://github.com/janlelis/unicode-scripts) | Codepoint sequence names
 [unicode-types](https://github.com/janlelis/unicode-types) | Basic codepoint types
 
 Although you can use the bundled gem (**unicode-x**) to install all the above at once, every of this libraries is standalone, so you are able to select only the features you need.

@@ -25,5 +25,6 @@ Gem::Specification.new do |gem|
   gem.add_dependency "unicode-name",            "~> 1.3"
   gem.add_dependency "unicode-numeric_value",   "~> 1.2"
   gem.add_dependency "unicode-scripts",         "~> 1.1"
+  gem.add_dependency "unicode-sequence_name",   "~> 1.0"
   gem.add_dependency "unicode-types",           "~> 1.1"
 end

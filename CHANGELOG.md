@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.2.0
+
+- Add unicode-sequence_name
+
 ## 1.1.0
 
 - Update unicoder based gems to Unicode 9.0
