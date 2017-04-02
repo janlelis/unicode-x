@@ -12,7 +12,7 @@ Library                 | Info
 [unicode_normalize](https://github.com/ruby/ruby/blob/trunk/lib/unicode_normalize.rb) | Unicode normalization (**stdlib**)
 [unicode-numeric_value](https://github.com/janlelis/unicode-numeric_value) | Convert a Unicode character into its numeric value
 [unicode-scripts](https://github.com/janlelis/unicode-scripts) | Scripts and Script_Extensions
-[unicode-sequence_name](https://github.com/janlelis/unicode-scripts) | Codepoint sequence names
+[unicode-sequence_name](https://github.com/janlelis/unicode-sequence_name) | Codepoint sequence names
 [unicode-types](https://github.com/janlelis/unicode-types) | Basic codepoint types
 
 ## Setup
