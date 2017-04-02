@@ -1,6 +1,6 @@
 # -*- encoding: utf-8 -*-
 
-require File.dirname(__FILE__) + "/lib/unicode/x"
+require File.dirname(__FILE__) + "/lib/unicode/x/version"
 
 Gem::Specification.new do |gem|
   gem.name          = "unicode-x"
