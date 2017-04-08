@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.3.0
+
+- Add unicode-emoji
+
 ## 1.2.0
 
 - Add unicode-sequence_name
