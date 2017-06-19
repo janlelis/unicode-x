@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.4.0
+
+- Update unicdoer based gems to Unicode 10
+
 ## 1.3.0
 
 - Add unicode-emoji
