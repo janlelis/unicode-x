@@ -10,7 +10,7 @@ Library                 | Info
 [unicode-emoji](https://github.com/janlelis/unicode-emoji) | Emoji data and regex
 [unicode-display_width](https://github.com/janlelis/unicode-display_width) | Monospace character width
 [unicode-name](https://github.com/janlelis/unicode-name) | Unicode codepoint name/alias/label
-[unicode_normalize](https://github.com/ruby/ruby/blob/trunk/lib/unicode_normalize.rb) | Unicode normalization (from **stdlib**)
+[unicode_normalize](https://github.com/ruby/ruby/blob/trunk/lib/unicode_normalize/normalize.rb) | Unicode normalization (from **stdlib**)
 [unicode-numeric_value](https://github.com/janlelis/unicode-numeric_value) | Convert a Unicode character into its numeric value
 [unicode-scripts](https://github.com/janlelis/unicode-scripts) | Scripts and Script_Extensions
 [unicode-sequence_name](https://github.com/janlelis/unicode-sequence_name) | Codepoint sequence names
