@@ -1,8 +1,12 @@
 # Change Log
 
+## 1.4.1
+
+- Loosen uncode-emoji dependency restriction
+
 ## 1.4.0
 
-- Update unicdoer based gems to Unicode 10
+- Update unicoder based gems to Unicode 10
 
 ## 1.3.0
 

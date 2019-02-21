@@ -1,4 +1,4 @@
-# Unicode::X [![[version]](https://badge.fury.io/rb/unicode-x.svg)](http://badge.fury.io/rb/unicode-x)
+# Unicode::X [![[version]](https://badge.fury.io/rb/unicode-x.svg)](https://badge.fury.io/rb/unicode-x)
 
 A collection of specific micro libraries providing data and algorithms that might be handy when working with Unicode characters in Ruby:
 

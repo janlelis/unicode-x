@@ -21,7 +21,7 @@ Gem::Specification.new do |gem|
   gem.add_dependency "unicode-blocks",          "~> 1.2"
   gem.add_dependency "unicode-categories",      "~> 1.2"
   gem.add_dependency "unicode-confusable",      "~> 1.2"
-  gem.add_dependency "unicode-emoji",           "< 2.0"
+  gem.add_dependency "unicode-emoji",           "< 3.0"
   gem.add_dependency "unicode-display_width",   "~> 1.3"
   gem.add_dependency "unicode-name",            "~> 1.5"
   gem.add_dependency "unicode-numeric_value",   "~> 1.3"
