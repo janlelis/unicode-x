@@ -1,6 +1,6 @@
 # Unicode::X [![[version]](https://badge.fury.io/rb/unicode-x.svg)](https://badge.fury.io/rb/unicode-x)
 
-A collection of specific micro libraries providing data and algorithms that might be handy when working with Unicode characters in Ruby:
+Choose-what-you-need style Unicode libraries for Ruby:
 
 Library                 | Info
 ------------------------|-------------------------------------------------
@@ -16,12 +16,8 @@ Library                 | Info
 [unicode-sequence_name](https://github.com/janlelis/unicode-sequence_name) | Codepoint sequence names
 [unicode-types](https://github.com/janlelis/unicode-types) | Basic codepoint types
 
-## Setup
-
-Add to Gemfile:
+Or get all by adding to your `Gemfile`:
 
 ```ruby
 gem 'unicode-x'
 ```
-
-All gems can also be installed standalone, if you only need certain features. The Unicode index data in most of the gems is generated using [unicoder](https://github.com/janlelis/unicoder).
