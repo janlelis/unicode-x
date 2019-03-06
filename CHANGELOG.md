@@ -1,5 +1,11 @@
 # Change Log
 
+## 11.0.0
+
+- Unicode 11
+- New version policy: `Unicode::X`'s major version is now synced to Unicode's.
+- Do not bundle unicode_normalize (it's in stdlib anyways)
+
 ## 1.4.1
 
 - Loosen uncode-emoji dependency restriction
