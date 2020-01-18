@@ -6,9 +6,9 @@ Gem::Specification.new do |gem|
   gem.name          = "unicode-x"
   gem.version       = Unicode::X::VERSION
   gem.summary       = "unicode-x"
-  gem.description   = "A collection of micro libraries providing data and algorithms about Unicode characters."
+  gem.description   = "A collection of micro libraries which provide data and algorithms for working with Unicode"
   gem.authors       = ["Jan Lelis"]
-  gem.email         = ["mail@janlelis.de"]
+  gem.email         = ["hi@ruby.consulting"]
   gem.homepage      = "https://github.com/janlelis/unicode-x"
   gem.license       = "MIT"
 
@@ -17,7 +17,7 @@ Gem::Specification.new do |gem|
   gem.test_files    = gem.files.grep(%r{^(test|spec|features)/})
   gem.require_paths = ["lib"]
 
-  gem.required_ruby_version = "~> 2.0"
+  gem.required_ruby_version = ">= 2.0"
 
   gem.add_dependency "unicode-blocks",          ">= 1.5", "< 2.0"
   gem.add_dependency "unicode-categories",      ">= 1.5", "< 2.0"
