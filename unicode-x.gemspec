@@ -19,14 +19,14 @@ Gem::Specification.new do |gem|
 
   gem.required_ruby_version = ">= 2.0"
 
-  gem.add_dependency "unicode-blocks",          ">= 1.5", "< 2.0"
-  gem.add_dependency "unicode-categories",      ">= 1.5", "< 2.0"
-  gem.add_dependency "unicode-confusable",      ">= 1.6", "< 2.0"
-  gem.add_dependency "unicode-emoji",           ">= 2.0", "< 3.0"
-  gem.add_dependency "unicode-display_width",   ">= 1.6", "< 2.0"
-  gem.add_dependency "unicode-name",            ">= 1.8", "< 2.0"
-  gem.add_dependency "unicode-numeric_value",   ">= 1.6", "< 2.0"
-  gem.add_dependency "unicode-scripts",         ">= 1.5", "< 2.0"
-  gem.add_dependency "unicode-sequence_name",   ">= 1.4", "< 2.0"
+  gem.add_dependency "unicode-blocks",          ">= 1.6", "< 2.0"
+  gem.add_dependency "unicode-categories",      ">= 1.6", "< 2.0"
+  gem.add_dependency "unicode-confusable",      ">= 1.7", "< 2.0"
+  gem.add_dependency "unicode-emoji",           ">= 2.4", "< 3.0"
+  gem.add_dependency "unicode-display_width",   ">= 1.7", "< 2.0"
+  gem.add_dependency "unicode-name",            ">= 1.9", "< 2.0"
+  gem.add_dependency "unicode-numeric_value",   ">= 1.7", "< 2.0"
+  gem.add_dependency "unicode-scripts",         ">= 1.6", "< 2.0"
+  gem.add_dependency "unicode-sequence_name",   ">= 1.5", "< 2.0"
   gem.add_dependency "unicode-types",           ">= 1.5", "< 2.0"
 end
