@@ -1,5 +1,9 @@
 # Change Log
 
+## 13.0.0
+
+- Unicode 13
+
 ## 12.1.0
 
 - Unicode 12.1
