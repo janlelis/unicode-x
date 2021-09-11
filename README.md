@@ -32,4 +32,4 @@ Beginning with version 11, `Unicode::X`'s major version is synced to Unicode's. 
 ## Also See
 
 - [Introduction to Unicode in Ruby](https://idiosyncratic-ruby.com/66-ruby-has-character.html) (blog post)
-- [unicode_normalize](https://github.com/ruby/ruby/blob/trunk/lib/unicode_normalize/normalize.rb): Unicode normalization included in standard library
+- [unicode_normalize](https://github.com/ruby/ruby/blob/master/lib/unicode_normalize/normalize.rb): Unicode normalization included in standard library
