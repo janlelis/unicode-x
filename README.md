@@ -1,4 +1,4 @@
-# Unicode::X 13 [![[version]](https://badge.fury.io/rb/unicode-x.svg)](https://badge.fury.io/rb/unicode-x)
+# Unicode::X 14 [![[version]](https://badge.fury.io/rb/unicode-x.svg)](https://badge.fury.io/rb/unicode-x)
 
 **Unicodex** is a collection of choose-what-you-need style Unicode libraries for Ruby.
 

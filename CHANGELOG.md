@@ -1,5 +1,9 @@
 # Change Log
 
+## 14.0.0
+
+- Unicode 14
+
 ## 13.0.1
 
 - Fix: Actual Unicode 13 dependencies
