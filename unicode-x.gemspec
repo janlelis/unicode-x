@@ -22,7 +22,7 @@ Gem::Specification.new do |gem|
   gem.add_dependency "unicode-blocks",          ">= 1.7", "< 2.0"
   gem.add_dependency "unicode-categories",      ">= 1.7", "< 2.0"
   gem.add_dependency "unicode-confusable",      ">= 1.8", "< 2.0"
-  gem.add_dependency "unicode-emoji",           ">= 2.9", "< 3.0"
+  gem.add_dependency "unicode-emoji",           ">= 2.9", "< 4.0"
   gem.add_dependency "unicode-display_width",   ">= 1.8", "< 3.0"
   gem.add_dependency "unicode-name",            ">= 1.10", "< 2.0"
   gem.add_dependency "unicode-numeric_value",   ">= 1.8", "< 2.0"
