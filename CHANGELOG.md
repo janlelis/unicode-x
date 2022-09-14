@@ -1,5 +1,9 @@
 # Change Log
 
+## 15.0.0
+
+- Unicode 15
+
 ## 14.0.1
 
 - Allow unicode-emoji 3.x
