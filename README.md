@@ -1,4 +1,4 @@
-# Unicode::X 15 [![[version]](https://badge.fury.io/rb/unicode-x.svg)](https://badge.fury.io/rb/unicode-x)
+# Unicode::X 15.1 [![[version]](https://badge.fury.io/rb/unicode-x.svg)](https://badge.fury.io/rb/unicode-x)
 
 **Unicode X** is a collection of choose-what-you-need style Unicode libraries for Ruby.
 

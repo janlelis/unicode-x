@@ -2,7 +2,7 @@
 
 module Unicode
   module X
-    VERSION = "15.0.0"
-    UNICODE_VERSION = "15.0.0"
+    VERSION = "15.1.0"
+    UNICODE_VERSION = "15.1.0"
   end
 end
