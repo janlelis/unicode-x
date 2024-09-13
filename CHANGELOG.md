@@ -1,5 +1,9 @@
 # Change Log
 
+## 16.0
+
+- Unicode 16
+
 ## 15.1.0
 
 - Unicode 15.1
