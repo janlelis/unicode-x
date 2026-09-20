@@ -14,19 +14,18 @@ Gem::Specification.new do |gem|
 
   gem.files         = Dir["{**/}{.*,*}"].select{ |path| File.file?(path) && path !~ /^pkg/ }
   gem.executables   = gem.files.grep(%r{^bin/}).map{ |f| File.basename(f) }
-  gem.test_files    = gem.files.grep(%r{^(test|spec|features)/})
   gem.require_paths = ["lib"]
 
   gem.required_ruby_version = ">= 2.0"
 
-  gem.add_dependency "unicode-blocks",          ">= 1.11", "< 2.0"
-  gem.add_dependency "unicode-categories",      ">= 1.11", "< 2.0"
-  gem.add_dependency "unicode-confusable",      ">= 1.13", "< 2.0"
-  gem.add_dependency "unicode-emoji",           ">= 4.1",  "< 5.0"
-  gem.add_dependency "unicode-display_width",   ">= 3.2",  "< 4.0"
-  gem.add_dependency "unicode-name",            ">= 1.14", "< 2.0"
-  gem.add_dependency "unicode-numeric_value",   ">= 1.12", "< 2.0"
-  gem.add_dependency "unicode-scripts",         ">= 1.12", "< 2.0"
-  gem.add_dependency "unicode-sequence_name",   ">= 1.16", "< 2.0"
-  gem.add_dependency "unicode-types",           ">= 1.11", "< 2.0"
+  gem.add_dependency "unicode-blocks",          ">= 1.12", "< 2.0"
+  gem.add_dependency "unicode-categories",      ">= 1.12", "< 2.0"
+  gem.add_dependency "unicode-confusable",      ">= 1.14", "< 2.0"
+  gem.add_dependency "unicode-emoji",           ">= 4.3",  "< 5.0"
+  gem.add_dependency "unicode-display_width",   ">= 3.3",  "< 4.0"
+  gem.add_dependency "unicode-name",            ">= 1.15", "< 2.0"
+  gem.add_dependency "unicode-numeric_value",   ">= 1.13", "< 2.0"
+  gem.add_dependency "unicode-scripts",         ">= 1.13", "< 2.0"
+  gem.add_dependency "unicode-sequence_name",   ">= 1.17", "< 2.0"
+  gem.add_dependency "unicode-types",           ">= 1.12", "< 2.0"
 end

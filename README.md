@@ -1,4 +1,4 @@
-# Unicode::X 17.0 [![[version]](https://badge.fury.io/rb/unicode-x.svg)](https://badge.fury.io/rb/unicode-x)
+# Unicode::X 18.0 [![[version]](https://badge.fury.io/rb/unicode-x.svg)](https://badge.fury.io/rb/unicode-x)
 
 **Unicode X** is a collection of choose-what-you-need style Unicode libraries for Ruby.
 
@@ -33,3 +33,4 @@ Beginning with version 11, `Unicode::X`'s major version is synced to Unicode's. 
 
 - [Introduction to Unicode in Ruby](https://idiosyncratic-ruby.com/66-ruby-has-character.html) (blog post)
 - [unicode_normalize](https://github.com/ruby/ruby/blob/master/lib/unicode_normalize/normalize.rb): Unicode normalization included in standard library
+- [character.construction](https://character.construction)

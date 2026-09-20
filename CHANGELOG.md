@@ -1,5 +1,9 @@
 # Change Log
 
+## 18.0
+
+- Unicode 18
+
 ## 17.0
 
 - Unicode 17
